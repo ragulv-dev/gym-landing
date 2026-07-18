@@ -17,6 +17,7 @@ body {
     background-color: var(--dark-color);
     color: var(--text-color);
     line-height: 1.6;
+    padding-top:80px; /* Navbar height */
 }
 
 main {
@@ -43,7 +44,10 @@ main {
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    background: rgba(0, 0, 0, 0.7);
+    /* background: rgba(0, 0, 0, 0.7); */
+     background: rgba(20, 20, 20, 0.2); /* Transparent */
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
     position: fixed;
     width: 100%;
     top: 0;
