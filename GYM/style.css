@@ -505,6 +505,12 @@ thead th {
 
 /* --- Media Queries for Responsiveness --- */
 @media(max-width: 768px) {
+    header, .navbar {
+        position: fixed !important;
+        top: 0 !important;
+        width: 100% !important;
+        z-index: 1000 !important;
+    }
     .hamburger {
         display: block;
     }

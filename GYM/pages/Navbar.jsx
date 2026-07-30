@@ -16,7 +16,7 @@ const Navbar = () => {
     <header>
       <nav className="navbar">
         <Link to="/" className="nav-logo">
-          Elite Fitness
+          <img src="/logo-gym.png" alt="Elite Fitness Logo" style={{ height: '180px', margin: '-70px 0' }} />
         </Link>
         <ul className={menuActive ? "nav-menu active" : "nav-menu"}>
           <li className="nav-item">

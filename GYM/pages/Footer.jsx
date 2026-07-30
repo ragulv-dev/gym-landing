@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content container">
         <div className="footer-section">
-          <h2>Elite Fitness</h2>
+          <img src="/logo-gym.png" alt="Elite Fitness Logo" style={{ height: '180px', margin: '-40px 0 -20px 0' }} />
           <p>Train Like a Pro. Unleash your inner strength and become the best version of yourself.</p>
         </div>
         <div className="footer-section">
