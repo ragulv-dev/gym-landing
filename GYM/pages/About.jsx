@@ -5,7 +5,7 @@ const About = () => {
     <section id="about" className="container">
       <h2 className="section-title">About Us</h2>
       <div className="about-content">
-        <img src="https://xfit.com.es/wp-content/uploads/2020/04/Los_beneficios_de_los_gimnasios_de_pesas.jpg" alt="Our Story" />
+        <img src="/about-gym.jpeg" alt="Our Story" />
         <div>
           <h3>Our Story</h3>
           <p>
