@@ -10,7 +10,7 @@ const Blog = () => {
     {
       title: 'Top 5 Exercises for Building Muscle',
       excerpt: 'Looking to build muscle? These top 5 exercises are a must-have in your workout routine. From squats to deadlifts, we cover them all...',
-      image: 'https://downpic.cc/photos/shutter/Downpic.cc-2291829397.jpg',
+      image: '/blog2.jpg',
     },
     {
       title: 'Mastering Muscle Recovery: Rest Days Matter',
