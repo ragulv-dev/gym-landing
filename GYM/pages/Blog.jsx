@@ -5,17 +5,17 @@ const Blog = () => {
     {
       title: 'The Importance of a Good Warm-Up',
       excerpt: 'A good warm-up is crucial for preventing injuries and preparing your body for a workout. In this post, we discuss the best warm-up exercises...',
-      image: 'https://placehold.co/600x400/333/fff?text=Warm-Up',
+      image: '/blog_1.png',
     },
     {
       title: 'Top 5 Exercises for Building Muscle',
       excerpt: 'Looking to build muscle? These top 5 exercises are a must-have in your workout routine. From squats to deadlifts, we cover them all...',
-      image: 'https://placehold.co/600x400/333/fff?text=Muscle+Building',
+      image: 'https://downpic.cc/photos/shutter/Downpic.cc-2291829397.jpg',
     },
     {
-      title: 'Healthy Eating for a Healthier You',
-      excerpt: 'Nutrition is just as important as exercise. In this post, we share some tips for healthy eating and provide some delicious and nutritious recipes...',
-      image: 'https://placehold.co/600x400/333/fff?text=Healthy+Eating',
+      title: 'Mastering Muscle Recovery: Rest Days Matter',
+      excerpt: 'Pushing hard in the gym is only half the battle. Discover why prioritizing sleep, nutrition, and active recovery is the real secret to unlocking your peak physical performance...',
+      image: 'https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&w=1469&auto=format&fit=crop',
     },
   ];
 
