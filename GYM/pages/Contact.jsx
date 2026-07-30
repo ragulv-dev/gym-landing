@@ -8,9 +8,18 @@ const Contact = () => {
         <div className="contact-info">
           <h3>Get in Touch</h3>
           <p>Have questions? We'd love to hear from you. Reach out to us and we'll get back to you shortly.</p>
-          <p><strong>Address:</strong> 123 Fitness St, Workout City, 12345</p>
-          <p><strong>Phone:</strong> (123) 456-7890</p>
-          <p><strong>Email:</strong> info@powerhousegym.com</p>
+          <div className="info-item">
+            <span className="icon">📍</span>
+            <p><strong>Address:</strong><br/>123 Fitness Lane, Workout City, 12345</p>
+          </div>
+          <div className="info-item">
+            <span className="icon">📞</span>
+            <p><strong>Phone:</strong><br/>(123) 456-7890</p>
+          </div>
+          <div className="info-item">
+            <span className="icon">✉️</span>
+            <p><strong>Email:</strong><br/>info@elitefitness.com</p>
+          </div>
         </div>
         <div className="contact-form">
           <form>
