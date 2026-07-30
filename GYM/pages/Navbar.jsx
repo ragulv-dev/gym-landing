@@ -16,7 +16,7 @@ const Navbar = () => {
     <header>
       <nav className="navbar">
         <Link to="/" className="nav-logo">
-          Powerhouse Gym
+          Elite Fitness
         </Link>
         <ul className={menuActive ? "nav-menu active" : "nav-menu"}>
           <li className="nav-item">
