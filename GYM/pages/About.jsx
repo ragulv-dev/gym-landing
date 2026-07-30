@@ -5,11 +5,11 @@ const About = () => {
     <section id="about" className="container">
       <h2 className="section-title">About Us</h2>
       <div className="about-content">
-        <img src="https://placehold.co/600x400/333/fff?text=Our+Story" alt="Our Story" />
+        <img src="https://xfit.com.es/wp-content/uploads/2020/04/Los_beneficios_de_los_gimnasios_de_pesas.jpg" alt="Our Story" />
         <div>
           <h3>Our Story</h3>
           <p>
-            Founded in 2010, Powerhouse Gym has been dedicated to helping people from all walks of life achieve their fitness goals. We believe that a healthy body leads to a healthy mind, and we strive to create a supportive and motivating environment for our members.
+            Founded in 2010, Elite Fitness has been dedicated to helping people from all walks of life achieve their fitness goals. We believe that a healthy body leads to a healthy mind, and we strive to create a supportive and motivating environment for our members.
           </p>
           <h3>Our Mission</h3>
           <p>
